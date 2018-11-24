@@ -2,7 +2,7 @@ import {async, ComponentFixture, TestBed} from '@angular/core/testing';
 import {Chance} from 'chance';
 
 import {LikesComponent} from './likes.component';
-import {LikesModule} from "./likes.module";
+import {LikesModule} from './likes.module';
 
 describe('LikesComponent', () => {
   let fixture: ComponentFixture<LikesComponent>;

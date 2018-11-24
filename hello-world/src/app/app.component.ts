@@ -4,7 +4,7 @@ import { Chance } from 'chance';
 @Component({
   selector: 'app-root',
   template: `
-    <app-likes [count]="initialCount"></app-likes>
+    <app-authors></app-authors>
   `,
   styleUrls: ['./app.component.css']
 })
